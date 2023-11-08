@@ -1,4 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Cookingtopia is a sharable and discoverable copy-and-paste prompt web application.
+
+<img src='https://static.wixstatic.com/media/4cff20_bbe2772f01db4217b1aa40edf09cadc4~mv2.png'/>
+
+## Feature
+- CRUD (Create Prompt, Read prompt, Update prompt, Delete prompt)
+- Google API log-in and log-out
+- Responsive Design
+- copy and paste prompt text
+- Search tags and data filtering
 
 ## Getting Started
 
